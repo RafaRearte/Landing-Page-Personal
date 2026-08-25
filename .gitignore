@@ -1,0 +1,17 @@
+# ===== Scripts de deploy (contienen IP/usuario del server) =====
+deploy-front-landing.sh
+deploy-*.sh
+publish-and-deploy-*.sh
+
+# ===== Datos personales =====
+Rearte Ariza Cesar Rafael.pdf
+*.pdf
+
+# ===== Node (por si en el futuro se agrega build) =====
+node_modules/
+dist/
+
+# ===== macOS / IDE =====
+.DS_Store
+.idea/
+.vs/
